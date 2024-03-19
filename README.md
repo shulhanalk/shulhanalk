@@ -5,7 +5,6 @@
 * 🌱 I’m currently learning Python.
 * 📫 Contact me by hitting the [email](mailto:halo.shulhan@gmail.com).
 
-<a href="https://twitter.com/shulh4n" ><img src="https://img.shields.io/twitter/follow/shulh4n.svg?style=social" /> </a>
 <!---
 shulhanalk/shulhanalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
